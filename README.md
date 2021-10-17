@@ -31,7 +31,7 @@ Eğitimin ilk dönemi olduğu için kontenjan 10 burslu öğrenci, 20 öğrenci 
 
 ## Eğitim Kimler İçindir? Kayıt önceliği kimlere verilecek?
 Eğitim önceliği sayısal alanlarda okuyan/okumuş yada hali hazırda IT alanında çalışan ve kariyerine 
-DevOps Engineer yada Cloud Engineer gibi alanlarda devam etmek isteyen kişilere verilecektir.
+DevOps Engineer yada Cloud Engineer gibi pozisyonlarda devam etmek isteyen kişilere verilecektir.
 
 ## Burslu öğrenciler nasıl seçilecek?
 Eğitime yaklaşık 2 ay kala "Eğitim kimler içindir?" bölümünde belirtilmiş profile uygun ve ekonomik sorun yaşayan öğrenciler 
