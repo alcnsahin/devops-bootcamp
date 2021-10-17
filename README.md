@@ -40,6 +40,10 @@ seçilecektir. Uygun aday sayısı 10'dan fazla ise çekilişle 10 kişi seçile
 
 Bursu kazanan öğrenciler gizli tutulacak ve eğitimi başarıyla bitiren burslu öğrencilerin iş bulmalarına yardımcı olunacaktır.
 
+## Ön Koşullar nelerdir?
+- Eğitimin sorunsuz takibi için minimum 8gb ram, 4 core cpu'su olan bir laptop gerekmektedir. 
+- Donanım sorunu yaşayan burslu öğrencilere imkanlar dahilinde donanım(ödünç) sağlanacaktır.
+
 ## Eğitim Ücreti nedir?
 - Öğrenci: 5000 TL + KDV
 - Diğer: 8750 TL + KDV
