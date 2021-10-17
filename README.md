@@ -47,5 +47,15 @@ Bursu kazanan öğrenciler gizli tutulacak ve eğitimi başarıyla bitiren bursl
 - Donanım sorunu yaşayan burslu öğrencilere imkanlar dahilinde donanım(ödünç) sağlanacaktır.
 
 ## Eğitim Ücreti nedir?
+
 - Öğrenci: 5000 TL + KDV
 - Diğer: 8750 TL + KDV
+
+2022 Ocak ayına kadar kayıt yaptıran katılımcılara %40 indirim sağlanacaktır. Kesin kayıt için lütfen iletişime geçiniz.
+
+## Güncel Kontenjan Bilgisi
+Kalan kontenjanlar aşağıdaki gibidir.
+
+- Burslu Öğrenci: 10
+- Öğrenci: 19
+- Diğer: 18
