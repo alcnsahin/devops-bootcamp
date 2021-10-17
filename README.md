@@ -20,7 +20,7 @@
 - Mentor Görüşmeleri
 
 ## Eğitimin Amacı nedir?
-- Piyasaya kalifiye Devops Mühendisleri kazandırmak.
+- Sektöre kalifiye Devops Mühendisleri kazandırmak.
 - Egitimbirligi.org üyesi öğrencilerin bilim ve teknoloji alanındaki projelerine(imkanlar dahilinde) fon ve teknik altyapı desteği sunmak. 
 
 ## Eğitim Süresi
