@@ -1,4 +1,4 @@
-# 2022 DevOps Bootcamp
+# 2022 DevOps Bootcamp Eğitim Programı
 2022 Mart ayında başlayacak şekilde DevOps Bootcamp eğitimi planlamaktayım. İçerik, Kontenjan ve diğer konularla ilgili bilgilere aşağıdan ulaşabilirsiniz. Ön kayıt veya yanıtını bulamadığınız sorular için alcnsahin@gmail.com 'dan bana ulaşabilirsiniz.
 
 ## Eğitim İçeriği
