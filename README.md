@@ -36,7 +36,7 @@ DevOps Engineer yada Cloud Engineer gibi alanlarda devam etmek isteyen kişilere
 ## Burslu öğrenciler nasıl seçilecek?
 Eğitime yaklaşık 2 ay kala eğitim önceliği bölümündeki profile uygun ve ekonomik sorun yaşayan öğrenciler 
 için bir başvuru formu yayınlanacaktır. Başvuran adayların her biri ile mülakat yapılacak ve en uygun 10 kişi 
-seçilecektir. Uygun aday sayısı 10'dan fazla ise çekilişle 10 kişi seçilecektir.
+seçilecektir. Uygun aday sayısı 10'dan fazla ise çekilişle 10 kişi seçilecektir. Seçilemeyen öğrenciler bir sonraki eğitimde öncelikli olacaklardır.
 
 Bursu kazanan öğrenciler gizli tutulacak ve eğitimi başarıyla bitiren burslu öğrencilerin iş bulmalarına yardımcı olunacaktır.
 
