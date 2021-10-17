@@ -51,7 +51,7 @@ Bursu kazanan öğrenciler gizli tutulacak ve eğitimi başarıyla bitiren bursl
 - Öğrenci: 5000 TL + KDV
 - Diğer: 8750 TL + KDV
 
-2022 Ocak ayına kadar kayıt yaptıran katılımcılara %40 indirim sağlanacaktır. Kesin kayıt için lütfen iletişime geçiniz.
+1 Ocak 2022'ye kadar kayıt yaptıran katılımcılara %40 indirim sağlanacaktır. Kesin kayıt için lütfen iletişime geçiniz.
 
 ## Güncel Kontenjan Bilgisi
 Kalan kontenjanlar aşağıdaki gibidir.
