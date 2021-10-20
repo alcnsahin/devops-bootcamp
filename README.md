@@ -60,3 +60,7 @@ Kalan kontenjanlar aşağıdaki gibidir.
 - Burslu Öğrenci: 10
 - Öğrenci: 19
 - Diğer: 18
+
+## Sponsorlar
+- ServOn (servon.com.tr)
+- Konsalt (konsalt.com.tr)
